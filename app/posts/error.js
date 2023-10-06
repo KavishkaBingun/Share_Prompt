@@ -1,0 +1,1 @@
+'use client'; // Error components must be client components
